@@ -19,4 +19,9 @@
     a {
         margin-left: 85%;
     }
+
+    #psyop,
+    #dollars {
+        width: 100%;
+    }
 }

@@ -415,3 +415,18 @@ span.grey {
     padding: 16px;
     display: none;
 }
+
+#man {
+    margin-top: 64px;
+    width: 250px;
+}
+
+#psyop {
+    width: 70%;
+    margin-bottom: 50px;
+}
+
+#dollars {
+    width: 50%;
+    margin-bottom: 50px;
+}

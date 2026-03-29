@@ -1,3 +1,6 @@
+let img = new Image();
+img.src = "images/checkers.png";
+
 function updateClock() {
     const now = new Date();
 
